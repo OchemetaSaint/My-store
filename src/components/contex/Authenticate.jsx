@@ -1,5 +1,5 @@
 import {useContext} from 'react'
-import { ThemeContext } from './Themecontext'
+import { ThemeContext } from './ThemeContext'
 import { Outlet, Navigate ,useLocation } from 'react-router-dom'
 
 
